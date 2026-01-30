@@ -88,15 +88,14 @@ src/
 │
 └── App.jsx
 
+~~~
 
 ---
 
-## ✨ Tip pro (opcional, queda brutal en GitHub)
+## 📸 Capturas del Proyecto
 
-Si quieres que destaque más visualmente:
+> 🖼️ Todas las imágenes utilizadas en este README se encuentran organizadas dentro de la carpeta  
+> `screenshots/`, donde se documenta tanto el **proceso de desarrollo** como el **resultado final** de la aplicación.
 
-```md
-> 🖼️ **Capturas del proyecto**  
-> La carpeta `screenshots/` contiene imágenes del proceso de desarrollo, estructura del proyecto  
-> y vistas finales en versión **desktop y mobile**.
+### Estructura de screenshots
 
