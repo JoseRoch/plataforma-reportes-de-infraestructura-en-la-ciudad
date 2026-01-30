@@ -88,3 +88,6 @@ src/
 │
 └── App.jsx
 
+> 📁 **Nota:**  
+> Todas las imágenes de algunas de las vistas del proyecto se encuentran organizadas dentro de la carpeta  
+> `screenshots/`, donde se documenta  el **resultado final** de la aplicación.
