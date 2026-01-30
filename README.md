@@ -88,10 +88,15 @@ src/
 │
 └── App.jsx
 
-```bash
-
 
 ---
-### Nota:
-> Todas las imágenes utilizadas en este README se encuentran organizadas dentro de la carpeta  
-> `screenshots/`, donde se documenta tanto el **proceso de desarrollo** como el **resultado final** de la aplicación.
+
+## ✨ Tip pro (opcional, queda brutal en GitHub)
+
+Si quieres que destaque más visualmente:
+
+```md
+> 🖼️ **Capturas del proyecto**  
+> La carpeta `screenshots/` contiene imágenes del proceso de desarrollo, estructura del proyecto  
+> y vistas finales en versión **desktop y mobile**.
+
