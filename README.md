@@ -88,6 +88,10 @@ src/
 │
 └── App.jsx
 
-> 📁 **Nota:**  
-> Todas las imágenes de algunas de las vistas del proyecto se encuentran organizadas dentro de la carpeta  
-> `screenshots/`, donde se documenta  el **resultado final** de la aplicación.
+
+
+
+---
+### Nota:
+> Todas las imágenes utilizadas en este README se encuentran organizadas dentro de la carpeta  
+> `screenshots/`, donde se documenta tanto el **proceso de desarrollo** como el **resultado final** de la aplicación.
