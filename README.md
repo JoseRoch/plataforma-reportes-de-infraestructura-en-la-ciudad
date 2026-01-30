@@ -57,6 +57,15 @@ La aplicación está pensada para ser **responsive**, accesible desde dispositiv
 
 ---
 
+
+## 📸 Capturas del Proyecto
+
+> 🖼️ Todas las imágenes utilizadas en este README se encuentran organizadas dentro de la carpeta  
+> `screenshots/`, donde se documenta tanto el **proceso de desarrollo** como el **resultado final** de la aplicación.
+
+---
+
+
 ## 📂 Estructura de Carpetas
 
 ```bash
@@ -90,12 +99,5 @@ src/
 
 ~~~
 
----
 
-## 📸 Capturas del Proyecto
-
-> 🖼️ Todas las imágenes utilizadas en este README se encuentran organizadas dentro de la carpeta  
-> `screenshots/`, donde se documenta tanto el **proceso de desarrollo** como el **resultado final** de la aplicación.
-
-### Estructura de screenshots
 
