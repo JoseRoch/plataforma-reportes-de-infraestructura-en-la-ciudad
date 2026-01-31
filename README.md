@@ -64,6 +64,43 @@ La aplicación está pensada para ser **responsive**, accesible desde dispositiv
 > `screenshots/`, donde se documenta el **resultado final** de la aplicación, Algunas vistas.
 
 ---
+## 🖼️ Algunas vistas de la aplicación
+
+A continuación se muestran algunas pantallas representativas de la aplicación, que permiten visualizar el flujo y las principales funcionalidades del sistema.
+
+---
+
+### 📊 Panel Administrador
+
+Vista principal del panel de administración, desde donde se gestionan los reportes, usuarios y funcionalidades clave de la plataforma.
+
+![Panel Administrador](screenshots/panel-administrador.png)
+
+---
+
+### 🗂️ Categorías del Reporte
+
+Pantalla donde se visualizan y seleccionan las distintas categorías disponibles para la creación y clasificación de reportes.
+
+![Categorías del Reporte](screenshots/categorias-del-reporte.png)
+
+---
+
+### 📝 Creación de Reporte
+
+Interfaz destinada a la creación de nuevos reportes, guiando al usuario durante el proceso de registro de la información.
+
+![Creación de Reporte](screenshots/creacion-reporte.png)
+
+---
+
+### ⏱️ Ruta al Reporte en Tiempo Real
+
+Vista que muestra el seguimiento o acceso al reporte en tiempo real, permitiendo una visualización dinámica del estado y progreso.
+
+![Ruta al Reporte en Tiempo Real](screenshots/ruta-al-reporte-tiempo-real.png)
+
+---
 
 
 ## 📂 Estructura de Carpetas
